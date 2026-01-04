@@ -10,7 +10,7 @@ export default function RootLayout() {
     headerBackButtonDisplayMode: "minimal",
     headerTitleAlign: 'center',
     presentation: "formSheet",
-    sheetAllowedDetents: [0.4, 0.6, 1],
+    sheetAllowedDetents: [0.6, 1],
     sheetInitialDetentIndex: 0,
     sheetCornerRadius: 24,         
     sheetLargestUndimmedDetentIndex: 0,
